@@ -13,7 +13,7 @@ class TestUserAddToBasketFromProductPage():
     def setup(self, browser):
         page = LoginPage(browser, "http://selenium1py.pythonanywhere.com/ru/accounts/login/")
         page.open()
-        page.register_new_user("new_user_" + str(random.randint(0,1000)) + "@yandex.ru", 'qwertyuiopasdfghjklzxcvbnm')
+        page.register_new_user("neww_uuser_" + str(random.randint(0,1000)) + "@mail.ru", 'qwertyuiopasdfghjklzxcvbnm')
         page.browser.implicitly_wait(4)
         page.should_be_authorized_user()
         yield
