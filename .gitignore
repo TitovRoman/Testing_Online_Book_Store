@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+env/*
+__pycache__/*
+pages/__pycache__/*
+.pytest_cache/*
+.vscode/*

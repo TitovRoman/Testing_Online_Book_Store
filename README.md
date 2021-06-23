@@ -1,4 +1,4 @@
-<h2>Hello dear reader!<h2>
+<h2>Hello dear reader!</h2>
 
 <p>This repository contains files for automated testing in Python using the <em>pytest</em> framework using the test <em>Page Object</em> pattern.
 <br>
