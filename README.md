@@ -22,8 +22,9 @@ The repository contains Python files, which contain test cases:
 
 <p>Run this command:</p>
 <em><b>pytest -v --tb=line --language=en -m need_review</em></b>
-
-or
-
+<br>or<br>
 <p>Run this command to run all tests in the directory:</p>
 <em><b>pytest -v --tb=line --language=en TestAddingToBasket/</em></b>
+
+<p>Certificate of Training</p>
+![Certificate](/stepik-certificate.png)
