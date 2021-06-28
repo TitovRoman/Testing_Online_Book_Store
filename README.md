@@ -27,4 +27,4 @@ The repository contains Python files, which contain test cases:
 <em><b>pytest -v --tb=line --language=en TestAddingToBasket/</em></b>
 
 <p>Certificate of Training</p>
-![Certificate](/stepik-certificate.png)
+![stepik-certificate](https://user-images.githubusercontent.com/80450867/123649556-836f3580-d832-11eb-9d93-6d592beef0c2.png)
